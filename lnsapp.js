@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/lns node
 const fs = require('fs')
 let dockerCompose = fs.readFileSync(
   '../graph-node/docker/docker-compose.yml',
