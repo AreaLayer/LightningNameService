@@ -29,7 +29,7 @@ Schema {
                 OwnedRightsType::Inflation => Once
             },
             owned_rights: type_map! {
-                OwnedRightsType::Inflation => NoneOrMore,
+                OwnedRightsType::Inflation => Once,
                 OwnedRightsType::Epoch => NoneOrOnce,
                 OwnedRightsType::Assets => NoneOrMore
             },
@@ -214,4 +214,9 @@ Schema {
         }
     },
     public_right_types: none!(),
-}
+   
+    },
+RegistryType::Registry=>StateSchema
+format: StateFormat: Declarative,
+abi: none!()
+   {
