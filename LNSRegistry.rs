@@ -220,3 +220,7 @@ RegistryType::Registry=>StateSchema
 format: StateFormat: Declarative,
 abi: none!()
    {
+TransferType::Transfer=>StateSchema
+format: StateFormat: Declarative,
+abi: none!()
+   {
