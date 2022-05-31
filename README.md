@@ -16,4 +16,4 @@ Still form of reserach, we are researching how enable transfer between users.
 
 ## Website
 
-https://react-ts-hafduf.stackblitz.io/
+https://lightningnameservice.stackblitz.io/
