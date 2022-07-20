@@ -1,5 +1,4 @@
 # LightningNameService
-Lightning Name Service
 
 ## Motivation 
 
