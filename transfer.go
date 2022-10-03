@@ -63,8 +63,8 @@ func handleLNURL(w http.ResponseWriter, r *http.Request) {
 			maxSendable = 1000000000
 		}
 
-		json.NewEncoder(w).Encode(lnurl.LNURLPayResponse1{
-			LNURLResponse:   lnurl.LNURLResponse{Status: "OK"},
+		json.NewEncoder(w).Encode(lnurl.LNSPayResponse1{
+			LNS Response:   lnurl.LNSResponse{Status: "OK"},
 			Callback:        fmt.Sprintf("https://%s/.well-known/lnurlp/%s", domain, username),
 			MinSendable:     minSendable,
 			MaxSendable:     maxSendable,
