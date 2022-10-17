@@ -16,3 +16,5 @@ Still form of reserach, we are researching how enable transfer between users.
 ## Website
 
 https://lightningnameservice.stackblitz.io/
+
+## Soon
