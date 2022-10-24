@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/fiatjaf/go-lnurl"
+	"github.com/Layer2Labs/go-lns"
 	"github.com/gorilla/mux"
 )
 
