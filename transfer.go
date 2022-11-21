@@ -11,7 +11,7 @@ import (
 	"github.com/gorilla/mux"
 )
 
-func handleLNURL(w http.ResponseWriter, r *http.Request) {
+func handleLNS(w http.ResponseWriter, r *http.Request) {
 	username := mux.Vars(r)["user"]
 
 	domains := getDomains(s.Domain)
