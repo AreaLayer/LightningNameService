@@ -21,6 +21,5 @@ https://lightningnameservice.stackblitz.io/
 
 ## To-Do
 
-[  ] Testnet
-
-[  ] Mainnet
+- [ ] Testnet
+- [ ] Mainnet
