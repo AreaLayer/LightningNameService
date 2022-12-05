@@ -18,3 +18,9 @@ Still form of reserach, we are researching how enable transfer between users.
 https://lightningnameservice.stackblitz.io/
 
 ## Soon available
+
+#To-Do
+
+[] Testnet
+
+[] Mainnet
