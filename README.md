@@ -23,3 +23,4 @@ https://lightningnameservice.stackblitz.io/
 
 - [ ] Testnet
 - [ ] Mainnet
+- [x] Fuction transfer
