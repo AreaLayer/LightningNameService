@@ -24,3 +24,7 @@ https://lightningnameservice.stackblitz.io/
 - [ ] Testnet
 - [ ] Mainnet
 - [x] Fuction transfer
+
+# Product
+
+Based on Lightning Daemon 
