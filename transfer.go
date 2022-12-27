@@ -68,7 +68,7 @@ func handleLNS(w http.ResponseWriter, r *http.Request) {
 			Callback:        fmt.Sprintf("https://%s/.well-known/lnurlp/%s", domain, username),
 			MinSendable:     minSendable,
 			MaxSendable:     maxSendable,
-			Transfer:        transfer,
+			Transfer:        transferdomain,
 			EncodedMetadata: makeMetadata(params),
 			CommentAllowed:  commentLength,
 			Tag:             "payRequest",
