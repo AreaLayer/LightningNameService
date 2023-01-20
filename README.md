@@ -24,7 +24,8 @@ https://lightningnameservice.stackblitz.io/
 - [ ] Testnet
 - [ ] Mainnet
 - [x] Fuction transfer
+- [ ] RGB24
 
 # Product
 
-Based on Lightning Daemon 
+Based on RGB24 from RGB-WG 
