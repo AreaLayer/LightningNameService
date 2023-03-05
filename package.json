@@ -3,4 +3,7 @@
 "name": "Lightning Name Service"
  "version": "1.0.1"
  "domain":"lns"
-  
+},
+"package"
+"rgb-core"
+"lnp"
