@@ -23,7 +23,7 @@ https://lightningnameservice.stackblitz.io/
 
 - [ ] Testnet
 - [ ] Mainnet
-- [x] Fuction transfer
+- [] Fuction transfer
 - [ ] RGB24
 
 # Product
